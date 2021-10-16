@@ -1,3 +1,3 @@
 # projeto-palavras-mais-usadas
-Projeto usando Node.js 
+Projeto usando Node.js,
 executar via code run
